@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome]!</h1>
+<h1 align="center">👋 Olá, eu sou Fabiana !</h1>
 
 <p align="center">
   💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Focado em aprender sempre
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando: [Seu curso ou aprendizado atual]
+- 🎓 Estudando: TI no Senai
 - 🛠️ Tecnologias: `JavaScript`, `Python`, `React`, `Node.js`, `Docker`...
 - 🌱 Atualmente aprendendo: [tecnologia/linguagem nova]
 - 💡 Curioso por: Inteligência Artificial, Desenvolvimento Web e Open Source
