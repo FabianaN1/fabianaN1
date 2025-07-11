@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, meu nome é  Fabiana! Advogada, Mediadora Judicial & Extrajudicial, estou a cursar Técnico de Informática para Internet / SENAI MG & Técnico em Secretariado IFSUDESTE Muriaé/MG.</h1>
+<h1 align="center">👋 Olá, saúde a todas(os)! Sou a Fabiana! Advogada, Mediadora Judicial & Extrajudicial, sou discente Técnico de Informática para Internet / SENAI MG & Técnico em Secretariado IFSUDESTE Muriaé/MG.</h1>
 
 <p align="center">
   💻 Programadora/Desenvolvedora em formação 2025 | 🚀 Sou estudiosa e muito ENTUSIASTA da tecnologia | 🎯 Focada em resultados e aprendizados constantes... Transdiscplinariedade _ Tecnologia e Direito.
@@ -17,12 +17,11 @@
 
 ## 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
