@@ -36,7 +36,7 @@
 
 ## 📫 Como me encontrar
 
-- 🌐 [Seu site pessoal ou portfólio]
+- 🌐 
 - 💼 [LinkedIn]https://www.linkedin.com/in/fabiananascimentodasilva/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📷 [Instagram])https://www.instagram.com/fabiana.nascs/?igsh=MXV3ZWhwc3lkcmw0aw%3D%3D#
 - ✉️ Email: fabi.nasc.silv@gmail.com & 0001162789@senaimgaluno.com.br
