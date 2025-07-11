@@ -1,14 +1,14 @@
-<h1 align="center">👋 Olá, saúde a todas(os)! Sou a Fabiana! Advogada, Mediadora Judicial & Extrajudicial, sou discente Técnico de Informática para Internet / SENAI MG & Técnico em Secretariado IFSUDESTE Muriaé/MG.</h1>
+<h1 align="center">👋 Olá, saúde a todas(os)! Sou a Fabiana! Advogada, Mediadora Judicial & Extrajudicial, estou a cursar _Técnico de Informática para Internet/SENAI MG & _Técnico em Secretariado/IFSUDESTE Muriaé/MG.</h1>
 
 <p align="center">
-  💻 Programadora/Desenvolvedora em formação 2025 | 🚀 Sou estudiosa e muito ENTUSIASTA da tecnologia | 🎯 Focada em resultados e aprendizados constantes... Transdiscplinariedade _ Tecnologia e Direito.
+  💻 Programadora/Desenvolvedora em formação 2025 | 🚀 Sou estudiosa e muito ENTUSIASTA da tecnologia e comportamentos humanos a ela relacionados| 🎯 Focada em resultados e aprendizados constantes... Transdiscplinariedade _ Tecnologia e Direito.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando: Curso Técnica de Informática para internet no SENAI MG e Técnica em Secretariado / Gestão no IFSUDESTE Muriaé MG.
+- 🎓 Estudando: Curso de Técnica de Informática para Internet/SENAI-MG. e Técnica em Secretariado/Gestão pelo IFSUDESTE Muriaé-MG.
 - 🛠️ Tecnologias: `JavaScript`, `Python`, `React`, `Node.js`, `Docker`.
 - 🌱 Atualmente aprendendo: [tecnologia/linguagem javaScript]
 - 💡 Curioso por: Inteligência Artificial, IOT, Desenvolvimento Web e Open Source.
