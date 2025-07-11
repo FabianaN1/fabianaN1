@@ -10,8 +10,8 @@
 
 - 🎓 Estudando: TI no Senai
 - 🛠️ Tecnologias: `JavaScript`, `Python`, `React`, `Node.js`, `Docker`...
-- 🌱 Atualmente aprendendo: [tecnologia/linguagem nova]
-- 💡 Curioso por: Inteligência Artificial, Desenvolvimento Web e Open Source
+- 🌱 Atualmente aprendendo: [tecnologia/linguagem javaScript]
+- 💡 Curioso por: Inteligência Artificial, IOT, Desenvolvimento Web e Open Source
 
 ---
 
@@ -38,12 +38,11 @@
 ## 📫 Como me encontrar
 
 - 🌐 [Seu site pessoal ou portfólio]
-- 💼 [LinkedIn](https://linkedin.com/in/SEU-USUARIO)
-- 📷 [Instagram](https://instagram.com/SEU-USUARIO)
-- ✉️ Email: [seuemail@email.com]
+- 💼 [LinkedIn]https://www.linkedin.com/in/fabiananascimentodasilva/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📷 [Instagram])https://www.instagram.com/fabiana.nascs/?igsh=MXV3ZWhwc3lkcmw0aw%3D%3D#
+- ✉️ Email: fabi.nasc.silv@gmail.com & 0001162789@senaimgaluno.com.br
 
 ---
-
-⭐️ Obrigado por visitar meu perfil!
+⭐️ GRATIDÃO por visitar meu perfil!
 
 
