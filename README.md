@@ -1,17 +1,17 @@
-<h1 align="center">👋 Olá, eu sou Fabiana !</h1>
+<h1 align="center">👋 Olá, meu nome é  Fabiana ! Soua Advogada, Mediadora Judicial e Extrajudicial, estou a cursar Técnico de Informática para internet no SENAI MG e Técnico em Secretariado no IFSUDESTE Muriaé MG.!</h1>
 
 <p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎯 Focado em aprender sempre
+  💻 Programadora/Desenvolvedora em formação 2025 | 🚀 Sou estudiosa e muito ENTUSIASTA da tecnologia | 🎯 Focada em resultados e aprendizados constantes. Transdiscplinariedade _ Tecnologia e Direito.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando: TI no Senai
-- 🛠️ Tecnologias: `JavaScript`, `Python`, `React`, `Node.js`, `Docker`...
+- 🎓 Estudando: Curso Técnica de Informática para internet no SENAI MG e Técnica em Secretariado / Gestão no IFSUDESTE Muriaé MG.
+- 🛠️ Tecnologias: `JavaScript`, `Python`, `React`, `Node.js`, `Docker`.
 - 🌱 Atualmente aprendendo: [tecnologia/linguagem javaScript]
-- 💡 Curioso por: Inteligência Artificial, IOT, Desenvolvimento Web e Open Source
+- 💡 Curioso por: Inteligência Artificial, IOT, Desenvolvimento Web e Open Source.
 
 ---
 
