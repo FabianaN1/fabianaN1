@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, saúde a todas(os)! Sou a Fabiana! Advogada, Mediadora Judicial & Extrajudicial, estou a cursar _Técnico de Informática para Internet/SENAI MG & _Técnico em Secretariado/IFSUDESTE Muriaé/MG.</h1>
+<h3 align="center">👋 Olá, saúde a todas(os)! Sou a Fabiana! Advogada, Mediadora Judicial & Extrajudicial, estou a cursar _Técnico de Informática para Internet/SENAI MG & _Técnico em Secretariado/IFSUDESTE Muriaé/MG.</h3>
 
 <p align="center">
   💻 Programadora/Desenvolvedora em formação 2025 | 🚀 Sou estudiosa e muito ENTUSIASTA da tecnologia e comportamentos humanos a ela relacionados| 🎯 Focada em resultados e aprendizados constantes... Transdiscplinariedade _ Tecnologia e Direito.
